@@ -1,0 +1,2 @@
+This is first line.
+we are using write() function.
